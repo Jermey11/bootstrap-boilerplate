@@ -1,6 +1,7 @@
 # bootstrap-boilerplate
 
 ##Description 
+
 This is my starter repository for my mobile friendly projects. It includes an html file with links to the CDN for the Bootstrap css and js file.
 
 ## Contributors to this Project
